@@ -26,7 +26,7 @@ The analysis spans five phases: exploratory data analysis, resource distribution
 
 ## Methodology
 
-A detailed discussion of feature selection, clustering methodology, dimensionality reduction, and regression modeling is available in: `analytical_framework.md`
+A detailed discussion of feature selection, clustering methodology, dimensionality reduction, and regression modeling is available in [`analytical-framework.md`](./analytical-framework.md).
 
 ---
 
@@ -109,6 +109,6 @@ Personalize intervention pathways by demographic segment rather than applying un
 | Clustering | K-Modes (categorical candidate profiles), K-Means (continuous state-level indicators) |
 | Dimensionality Reduction | PCA — Infrastructure Stress Index |
 | Regression | OLS — state-level pass rate driver analysis |
-| Visualization | Matplotlib, Seaborn, GeoPandas |
+| Visualization | Matplotlib, Seaborn |
 
 
