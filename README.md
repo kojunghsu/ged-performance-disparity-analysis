@@ -26,7 +26,7 @@ The analysis spans five phases: exploratory data analysis, resource distribution
 
 ## Methodology
 
-A detailed discussion of feature selection, clustering methodology, dimensionality reduction, and regression modeling is available in [`analytical-framework.md`](./analytical-framework.md).
+A detailed discussion of feature selection, clustering methodology, dimensionality reduction, and regression modeling is available in [`analytical_framework.md`](./analytical_framework.md).
 
 ---
 
