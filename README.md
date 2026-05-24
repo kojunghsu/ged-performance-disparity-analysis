@@ -18,9 +18,9 @@ The analysis spans five phases: exploratory data analysis, resource distribution
 
 ## Repository Contents
 
-- `README.md` — project overview, findings, and recommendations
-- `analytical_framework.md` — methodology summary and analytical approach
-- `ged_performance_disparity_analysis.pdf` — stakeholder-facing presentation deck
+- [`README.md`](./README.md) — project overview, findings, and recommendations
+- [`analytical_framework.md`](./analytical_framework.md) — methodology summary and analytical approach
+- [`ged_performance_disparity_analysis.pdf`](./ged_performance_disparity_analysis.pdf) — stakeholder-facing presentation deck
 
 ---
 
